@@ -49,6 +49,7 @@
 2. Clion -> Tools -> CMake -> Reset Cache and Reload Project
 
 ## C++ Beispiele
+> originale API-Doku [API-Doku](https://libgpiod.readthedocs.io/en/master/core_line_request.html)
 ### LED blinken lassen
 ```C++
 #include <iostream>
