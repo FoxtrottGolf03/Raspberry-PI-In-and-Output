@@ -1,7 +1,7 @@
 # GPIO INPUT and OUTPUT Raspberry PI 
 
 ## Inhaltsverzeichnis
-1. [libgpiod - Installation](#Intstallation-von-libgpiod v2 (Cpp)) 
+1. [libgpiod - Installation](#Intstallation-von-libgpiod-v2-(Cpp)) 
 2. [Beispiele](#Cpp-Beispiele) 
 3. [Projectansatz](#Ansatz-fuer-das-Azubiproject)
 ## Intstallation von libgpiod v2 (Cpp)
