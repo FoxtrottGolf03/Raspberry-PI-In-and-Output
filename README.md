@@ -1,10 +1,10 @@
 # GPIO INPUT and OUTPUT Raspberry PI 
 
 ## Inhaltsverzeichnis
-1. [libgpiod - Installation](#Intstallation-von-libgpiod v2 (C++)) 
+1. [libgpiod - Installation](#Intstallation-von-libgpiod v2 (Cpp)) 
 2. [Beispiele](#Cpp-Beispiele) 
 3. [Projectansatz](#Ansatz-fuer-das-Azubiproject)
-## Intstallation von libgpiod v2 (C++)
+## Intstallation von libgpiod v2 (Cpp)
 >Standartmaeßig kommt libgpiod nur mit C Bindings deswegen Installation fuer C++   
 > Diese Douke setzt sich aus Chat und Foren zusammen!   
 > libgpiod-Doku: [Originale Dokumentation](https://libgpiod.readthedocs.io/en/master/building.html)   
